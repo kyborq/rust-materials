@@ -12,4 +12,5 @@ Rust learning resources and examples
 ### Repositories
 
 * 🔗 [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - Awesome list
-* 🔗 [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Frontend development
+* 🔗 [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Frontend development for desktop
+* 🔗 [bevyengine/bevy](https://github.com/bevyengine/bevy) - Gamedev with 2D and 3D
